@@ -1,0 +1,9 @@
+{
+  "configurations": [
+    {
+      "command": "flutter run",
+      "name": "Start App",
+      "request": "launch",
+    },
+  ]
+}
